@@ -1,0 +1,15 @@
+C:\Github\testing\testing\bin\Debug\net6.0\RemoteCoding.exe
+C:\Github\testing\testing\bin\Debug\net6.0\RemoteCoding.deps.json
+C:\Github\testing\testing\bin\Debug\net6.0\RemoteCoding.runtimeconfig.json
+C:\Github\testing\testing\bin\Debug\net6.0\RemoteCoding.dll
+C:\Github\testing\testing\bin\Debug\net6.0\RemoteCoding.pdb
+C:\Github\testing\testing\obj\Debug\net6.0\RemoteCoding.csproj.AssemblyReference.cache
+C:\Github\testing\testing\obj\Debug\net6.0\RemoteCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\testing\testing\obj\Debug\net6.0\RemoteCoding.AssemblyInfoInputs.cache
+C:\Github\testing\testing\obj\Debug\net6.0\RemoteCoding.AssemblyInfo.cs
+C:\Github\testing\testing\obj\Debug\net6.0\RemoteCoding.csproj.CoreCompileInputs.cache
+C:\Github\testing\testing\obj\Debug\net6.0\RemoteCoding.dll
+C:\Github\testing\testing\obj\Debug\net6.0\refint\RemoteCoding.dll
+C:\Github\testing\testing\obj\Debug\net6.0\RemoteCoding.pdb
+C:\Github\testing\testing\obj\Debug\net6.0\RemoteCoding.genruntimeconfig.cache
+C:\Github\testing\testing\obj\Debug\net6.0\ref\RemoteCoding.dll
