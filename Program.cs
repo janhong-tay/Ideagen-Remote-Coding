@@ -5,18 +5,17 @@ public class Program
 {
     public static void Main()
     {
-        // Console.WriteLine(Calculate("10 - ( 2 + 3 * ( 7 - 5 ) )"));
-        // Console.WriteLine(Calculate("( 1 / 2 ) - 1 + 1"));
-        // Console.WriteLine(Calculate("23 - ( 29.3 - 12.5 )")); //this got small bug 
-        // Console.WriteLine(Calculate("( 11.5 + 15.4 ) + 10.1"));
-        // Console.WriteLine(Calculate("1 + 1"));
-        // Console.WriteLine(Calculate("1 + 1"));
-        // Console.WriteLine(Calculate("2 * 2"));
-        // Console.WriteLine(Calculate("1 + 2 + 3"));
-        // Console.WriteLine(Calculate("6 / 2"));
-        // Console.WriteLine(Calculate("11 + 23"));
-        // Console.WriteLine(Calculate("11.1 + 23"));
-        // Console.WriteLine(Calculate("1 + 1 * 3"));
+         Console.WriteLine(Calculate("10 - ( 2 + 3 * ( 7 - 5 ) )"));
+         Console.WriteLine(Calculate("( 1 / 2 ) - 1 + 1"));
+         Console.WriteLine(Calculate("23 - ( 29.3 - 12.5 )")); 
+         Console.WriteLine(Calculate("( 11.5 + 15.4 ) + 10.1"));
+         Console.WriteLine(Calculate("1 + 1"));
+         Console.WriteLine(Calculate("2 * 2"));
+         Console.WriteLine(Calculate("1 + 2 + 3"));
+         Console.WriteLine(Calculate("6 / 2"));
+         Console.WriteLine(Calculate("11 + 23"));
+         Console.WriteLine(Calculate("11.1 + 23"));
+         Console.WriteLine(Calculate("1 + 1 * 3"));
 
     }
 
@@ -41,7 +40,7 @@ public class Program
                     List<string> result =   Calculate(OutterCalculation);
             }
 
-            return Convert.ToDouble(OutterCalculation[0]);
+            return Math.Round(Convert.ToDouble(OutterCalculation[0]),2);
 
         }
         catch (Exception ex)
